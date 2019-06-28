@@ -4,8 +4,8 @@
 
 ### check to see the version:
 
->$ tsc --version
+    >$ tsc --version
 
-### transpiling TS file to JS:
+### transpiling typescript file to JS:
 
- >$ tsc fileName.ts
+    >$ tsc fileName.ts
