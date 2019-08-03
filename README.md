@@ -1,5 +1,5 @@
 ### install ts on mac:
-    >$ sudo npm install typescript
+    >$ sudo npm install -g typescript
 
 
 ### check to see the version:
