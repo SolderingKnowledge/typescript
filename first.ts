@@ -14,7 +14,7 @@ let brr: Array<boolean>; //brr = [true, false];
 let ob: {}; // ob= {name: "name"};
 
 
-let tuple: [string, number]; //['hello', 4];
+let tuple: [string, number]; //['hello', 4]; in tuples order is important that is why you can't break it
 let myVoid: void = null;//null  let myVoid: void = undefined => undefined :: both works for this  
 
 
